@@ -1,16 +1,16 @@
 {
-  "author": "Josh David Miller",
+  "author": "Daihua Ye",
   "name": "ngbp",
-  "version": "0.3.2",
-  "homepage": "https://github.com/ngbp/ngbp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/davishacker",
   "licenses": {
     "type": "MIT",
     "url": "https://raw.github.com/ngbp/ngbp/master/LICENSE"
   },
-  "bugs": "https://github.com/ngbp/ngbp/issues",
+  "bugs": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ngbp/ngbp.git"
+    "url": ""
   },
   "dependencies": {},
   "devDependencies": {
